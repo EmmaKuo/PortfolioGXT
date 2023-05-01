@@ -74,7 +74,7 @@ footer{
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
-.flex-item a2{
+.flex-item a21{
     display: flex;
     width: 200%;
     height: 0;
@@ -91,7 +91,7 @@ footer{
 }
 
 
-.flex-item a3{
+.flex-item a22{
     display: flex;
     width: 200%;
     height: 0;
@@ -108,7 +108,7 @@ footer{
 }
 
 
-.flex-item a4{
+.flex-item a23{
     display: flex;
     width: 200%;
     height: 0;
@@ -124,7 +124,7 @@ footer{
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
-.flex-item a5{
+.flex-item a24{
     display: flex;
     width: 200%;
     height: 0;
@@ -140,6 +140,90 @@ footer{
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
+
+.flex-item a25{
+    display: flex;
+    width: 200%;
+    height: 0;
+    padding: 30% 0;
+    background-image: url(../assets/images/week5.png); /*change the image to one of you choice */
+    background-position: center;
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:fuchsia;
+    transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
+}
+
+
+.flex-item a26{
+    display: flex;
+    width: 200%;
+    height: 0;
+    padding: 30% 0;
+    background-image: url(../assets/images/week6.png); /*change the image to one of you choice */
+    background-position: center;
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:fuchsia;
+    transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
+}
+
+
+.flex-item a27{
+    display: flex;
+    width: 200%;
+    height: 0;
+    padding: 30% 0;
+    background-image: url(../assets/images/week7.jpg); /*change the image to one of you choice */
+    background-position: center;
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:fuchsia;
+    transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
+}
+
+
+.flex-item a28{
+    display: flex;
+    width: 200%;
+    height: 0;
+    padding: 30% 0;
+    background-image: url(../assets/images/week8.png); /*change the image to one of you choice */
+    background-position: center;
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:fuchsia;
+    transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
+}
+
+
+.flex-item a29{
+    display: flex;
+    width: 200%;
+    height: 0;
+    padding: 30% 0;
+    background-image: url(../assets/images/week9.png); /*change the image to one of you choice */
+    background-position: center;
+    background-size: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:fuchsia;
+    transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
+}
 
 
 /* want a different background image for each project? */
